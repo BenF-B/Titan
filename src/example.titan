@@ -1,0 +1,4 @@
+func add(a: uint, b: uint): uint
+	d = -1
+	c = "this is a test"
+	return a + b
